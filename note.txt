@@ -1,0 +1,6 @@
+> started project called locallibrary
+> django-admin startproject locallibrary .
+> started app called catalog
+> python manage.py startapp catalog
+> add catalog app to installed_apps in settings.py
+> add catalog urls to main urls.py
