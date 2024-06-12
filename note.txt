@@ -6,3 +6,5 @@
 > add catalog urls to main urls.py
 > added special static url to main urls.py
 > running migrations (make migrations first)
+> added catalog app models
+> running migrations (make firstf)
